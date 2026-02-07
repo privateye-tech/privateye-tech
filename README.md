@@ -51,6 +51,7 @@ exercises performed in controlled and ethical environments.
 ## 📜 Certifications & Education
 
 - eJPT – eLearnSecurity Junior Penetration Tester
+- ICCA – INE Certified Cloud Associate
 - BSc in Computer Engineering
 - CET in Information Systems Programming
 - Professional Course in Multimedia Technologies
